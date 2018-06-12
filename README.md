@@ -6,6 +6,8 @@ Download your encrypted string in a HTML page with a password prompt you can upl
 
 You can encrypt a file online at https://robinmoisson.github.io/staticrypt.
 
+--- Forked so I know the copy I have of the code is not changing between the times I am using it (e.g. someone injects a password tracker).
+
 ## HOW IT WORKS
 
 **Disclaimer** if you have extra sensitive banking data you should probably use something else!
